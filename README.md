@@ -1,0 +1,1 @@
+# prgramme-to-find-average-of-numbers-using-array
